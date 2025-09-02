@@ -2,7 +2,7 @@
 This repository focuses on analyzing Covid-19 dataset to understand the death and survival ratio per region, and globally.
 
 ## Author
-- **Name:** OLUWASEGUN SAMUEL
+- **Name:** OLUWASEGUN SAMUEL ABIOLA
 - **Linkedin:** Oluwasegun Abiola    
 ---
 

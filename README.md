@@ -58,7 +58,7 @@ The analysis focuses on confirmed, death, recovered, and active cases across dif
 
 ## Visual Results
 ### 1. Visual representation of a line plot of total deaths, confirmed, recovered, and active cases per country, where deaths are greater than 150
-<img width="1190" height="590" alt="output_24_0" src="https://github.com/user-attachments/assets/536fc6e1-cff3-43fc-90e0-b8dfacd46d8e" />
+<img width="1387" height="697" alt="output 24" src="https://github.com/user-attachments/assets/beef4dc9-938c-4c9d-bb98-004d05f43f7b" />
 
 ### 2. Bar chart representation of USA state-wise death cases.
 <img width="629" height="470" alt="output_26_0" src="https://github.com/user-attachments/assets/3d1df950-2a5e-4035-ac83-9e048b057c7b" />

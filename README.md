@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-on-Covid-19-Dataset
-This repository focuses on analyzing Covid-19 dataset to understand the death and survival ratio per region, and globally.
+This Project focuses on analyzing Covid-19 dataset to understand the death and survival ratio per region, and globally.
 
 ## Author
 - **Name:** OLUWASEGUN SAMUEL ABIOLA
